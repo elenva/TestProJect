@@ -1,0 +1,11 @@
+{
+  "name": "TestProJect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:elenva/TestProJect.git",
+  "author": "elenva <282058905@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "TestPackages": "git+ssh://git@github.com:elenva/TestPackages.git"
+  }
+}
